@@ -102,7 +102,7 @@ if(scoreLW>0.2)
   if(statuslw == false)
    {
     Song1.play();
-    document.getElementById("song").innerHTML="Current Song:"+"BamBamBam by Camila Cabello";
+    document.getElementById("song").innerHTML="Current Song:"+"Life go on and on by Oliver Tree";
    }
 }
  
