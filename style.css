@@ -1,0 +1,25 @@
+body
+{
+    background-image: url("https://freerangestock.com/sample/52585/colorful-music-background-shows-sounds-jazz-and-harmony-.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 32px;
+    font-family:cursive;
+    color:white;
+}
+p{
+    font-size:42px;
+    font-family:CURSIVE;
+    color:bisque;
+}
+canvas{
+    box-shadow: 15px,15px,15px cyan;
+    border-radius: 5px;
+    border-color: silver;
+    border-style: double;
+
+}
